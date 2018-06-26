@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/elements": "^6.0.6",
+    "document-register-element": "^1.7.2"
   },
   "main": "bundles/example-ng6-lib.umd.js",
   "module": "fesm5/example-ng6-lib.js",
